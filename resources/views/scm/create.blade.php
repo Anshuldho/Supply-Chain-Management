@@ -66,8 +66,9 @@
         <label for="location">Location:</label>
         <input type="text" id="location" name="location" required>
 
-        <button type="submit" class="mt-4 bg-blue-500 text-white py-2 px-4 rounded">Create Product</button>
+        <button type="submit">Create Product</button>
     </form>
+
 </div>
 </body>
 </html>
